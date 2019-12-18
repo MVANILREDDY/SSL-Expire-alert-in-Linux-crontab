@@ -1,0 +1,8 @@
+Alias name: xxxxxx
+Creation date: xxxxxx, 2018
+Entry type: trustedCertEntry
+
+Owner: CN=alter Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 alter, Inc. - For authorized use only", OU=alter Trust Network, O="alter, Inc.", C=US
+Issuer: CN=alter Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 alter, Inc. - For authorized use only", OU=alter  Trust Network, O="alter, Inc.", C=US
+Serial number: xxxxxxxx
+Valid from: Wed Nov 08 00:00:00 GMT 2006 until: Wed Jul 16 23:59:59 GMT 2036
