@@ -1,5 +1,3 @@
-# Hello-World
-Just another repository
+# SSL Certificate Expire alert in Weblogic server
 
-just learning Github with example
 
