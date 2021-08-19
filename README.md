@@ -1,3 +1,4 @@
-# SSL Certificate Expire alert in Weblogic server
+used to get  certificate expiration date based on to date stored in keystore
+
 
 
