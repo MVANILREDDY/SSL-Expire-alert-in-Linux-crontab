@@ -1,4 +1,4 @@
-used to get  certificate expiration date based on to date stored in keystore
+used to get  certificate expiration date based on to_date stored in cacerts file
 
 
 
